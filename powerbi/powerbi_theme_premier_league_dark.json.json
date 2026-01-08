@@ -1,0 +1,24 @@
+{
+  "name": "Premier League Dark",
+  "dataColors": [
+    "#00D2FF", "#A541FF", "#FF007F", "#00FF7F", "#FFD700",
+    "#FF6B00", "#1E90FF", "#FF4500", "#7FFF00", "#FF1493"
+  ],
+  "background": "#0E0E0E",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#00D2FF",
+  "textClasses": {
+    "callout": {
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "color": "#FFFFFF"
+    },
+    "label": {
+      "color": "#FFFFFF"
+    }
+  }
+}
