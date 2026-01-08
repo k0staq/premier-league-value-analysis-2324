@@ -2,6 +2,11 @@
 Premier League 2023/24 — Moneyball-Style Project
 🔍 Project Overview
 
+## 📄 Report (PDF)
+The full Power BI report is also available as a single PDF export for easy viewing:
+
+- [Premier League Value Analysis 2023/24 — Full Report (PDF)](pdf/premier_league_value_analysis_2324_report.pdf)
+
 This project applies a Moneyball-style analytical approach to the Premier League 2023/24 season.
 The focus is on evaluating attacking performance relative to market value, rather than raw output alone.
 
