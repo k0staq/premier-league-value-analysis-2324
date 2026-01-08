@@ -1,3 +1,18 @@
+## 📊 Premier League 2023/24 — Football Performance & Value Analysis
+
+Moneyball-style analysis of Premier League 2023/24 attacking performance, focusing on **value, efficiency, and young breakout talents**.
+
+The project evaluates player and club performance **relative to market value**, using per-90 metrics and a custom attacking output index.
+
+🔎 Key insights:
+- Identifies **undervalued attacking players**
+- Compares **club-level efficiency**
+- Highlights **young talents and breakout candidates**
+- Examines **over- and under-performance vs expected goals**
+
+📄 **[Full Power BI Report (PDF)](pdf/premier_league_value_analysis_2324_report.pdf)**  
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 📊 Football Performance & Value Analysis
 Premier League 2023/24 — Moneyball-Style Project
 🔍 Project Overview
